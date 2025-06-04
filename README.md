@@ -1,4 +1,4 @@
-***# C and C++ ***
+# ***C and C++***
 
 **This repo contain practice questions and small projects of C and C++ programming language.**
 
